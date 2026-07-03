@@ -145,3 +145,9 @@ vite.config.ts.timestamp-*
 # Python (worker)
 __pycache__/
 *.pyc
+
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
